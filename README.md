@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Lake](https://user-images.githubusercontent.com/14955271/160695492-75fe10da-d79f-4382-81ee-34084e23232c.jpg)
+![Lake_2](https://user-images.githubusercontent.com/14955271/160695603-2b21b0f4-938f-4464-995a-d75d127a3f96.jpg)
+
 
 ## About:
 I’m a software engineering based in Portland Maine. Above is a picture I took while hiking Baxter State park. I'm happiest while developing applications in the fields of bartending, hospitality, fitness, or gaming. 
