@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About:
-This app is for studying cocktail recipes and being inspired by other cocktail creations. When you start at a new bar, you have to memorize all the signature cocktails. This app simplifies that process. 
+I’m a software engineering based in Portland Maine. Above is a picture I took while hiking Baxter State park. I'm happiest while developing applications in the fields of bartending, hospitality, fitness, or gaming. 
 
 ## Technologies Used:
 
