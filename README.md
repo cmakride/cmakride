@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![GPTempDownload](https://user-images.githubusercontent.com/14955271/160696425-72213b02-8ebc-461a-8315-9f6beea9aa4c.JPG)
 
 
