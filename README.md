@@ -1,9 +1,9 @@
-![GPTempDownload](https://user-images.githubusercontent.com/14955271/160696425-72213b02-8ebc-461a-8315-9f6beea9aa4c.JPG)
+
 
 
 
 ## About:
-I’m a software developer based in Portland Maine. Above is a stoic pose while rafting the Kennebec River. I'm happiest while developing applications in the fields of bartending, hospitality, fitness, or gaming. While not programming, you can find me working out, surfing Maine's coast, or watching The Last Kingdom. 
+I’m a software developer based in Portland Maine. I'm happiest while developing applications in the fields of bartending, hospitality, fitness, and gaming. While not programming, you can find me working out, surfing Maine's coast, or watching The Last Kingdom. 
 
 ## Technologies Used:
 
