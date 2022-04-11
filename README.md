@@ -3,7 +3,7 @@
 
 
 ## About:
-I’m a software developer based in Portland Maine. I'm happiest while working on applications in the fields of bartending, hospitality, fitness, and gaming. While not programming, you can find me working out, surfing Maine's coast, or watching The Last Kingdom. 
+I’m a software developer based in Portland Maine. I'm happiest while working on applications in the fields of bartending, hospitality, finance, fitness, and gaming. While not programming, you can find me working out, surfing Maine's coast, or watching The Last Kingdom. 
 
 ## Technologies Used:
 
