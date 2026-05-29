@@ -1,6 +1,6 @@
 
 ## About:
-I’m a software developer based in Maine. While not programming, you can find me working out, surfing Maine's coast, or traveling. 
+Software developer based in Maine. While not programming, you can find me working out, surfing Maine's coast, or traveling. 
 
 ## Professional Experience with:
 
